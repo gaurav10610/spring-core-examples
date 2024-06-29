@@ -1,4 +1,4 @@
-package spring.core.examples.db.layer.jdbc;
+package test.java.spring.core.examples;
 
 import static org.junit.Assert.*;
 import org.junit.Test;
